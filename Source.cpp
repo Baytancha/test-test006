@@ -9,7 +9,7 @@
 #include <array>
 #include <random>
 
-
+//skip list implementation
 template<typename T>
 class Link {
 
